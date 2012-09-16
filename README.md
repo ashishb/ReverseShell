@@ -1,4 +1,4 @@
-A small Reverse Shell I created for android.
+A small Reverse Shell for android.
 Nothing special, no bells and whistles.
 It basically reads for "command_url" and posts results to "result_url".
 (Both of these strings should be defined in res/values/strings.xml before building the apk).
