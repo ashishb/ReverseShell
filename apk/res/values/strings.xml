@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ReverseShell</string>
+    <string name="command_url">COMMAND URL GOES HERE</string>
+    <string name="result_url">RESULT URL GOES HERE</string>
+</resources>
