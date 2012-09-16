@@ -7,10 +7,6 @@ if($str != null) {
   fclose($fh);
   echo "Success";
 } else {
-  echo "Fail";
+  echo "Fail<form method=get>result <input type=text name=\"result\" value=\"value1\"><input type=Submit></form>";
 }
 ?>
-Test
-<form method=get>
-<input type=text name="result" value="value1">
-</form>
