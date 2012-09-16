@@ -6,7 +6,6 @@ if($str != null) {
   fwrite($fh, $str);
   fclose($fh);
   echo "Success";
-  echo "str is $str";
 } else {
   echo "Fail";
 }
